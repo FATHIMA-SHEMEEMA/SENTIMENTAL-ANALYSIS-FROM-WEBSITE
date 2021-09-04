@@ -1,0 +1,2 @@
+# SENTIMENTAL-ANALYSIS-FROM-WEBSITE
+Sentimental Analysis uses NLP to determine whether data is positive,negative, neural. Its also performed text on text analysis.   In this program to get text from a website then analysis the text is positive , negative or neutral. TextBlob package is used in this program to process the text.  TextBlob isn a python library for processing textual data . It provides a simple API for diving into common Natural Language Processing(NLP) tasks such as extraction,sentimental analysis, classification, translation and more.
